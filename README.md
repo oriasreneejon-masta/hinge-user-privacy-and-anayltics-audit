@@ -1,4 +1,4 @@
-![Banner](hingelogo3.png)
+![Banner](hingelogo2.png)
 # Hinge User Telemetry: Data Quality & Safety Audit
 
 ## Business Overview

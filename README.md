@@ -1,14 +1,14 @@
 ![Banner](hingelogo3.png)
 # Hinge User Telemetry: Data Quality & Safety Audit
 
-## 📌 Business Overview
+## Business Overview
 On consumer dating platforms like Hinge, user safety, privacy, and data integrity are core product requirements. Raw telemetry data capturing user locations, ages, and profile verification statuses must be audited to ensure compliance with global privacy regulations (**GDPR/CCPA**) and to prevent the exposure of sensitive user locations.
 
 This repository demonstrates a SQL data governance pipeline that cleans raw profile telemetry, flags age/bot anomalies, **fuzzes exact GPS coordinates**, and constructs an anonymized analytical view for product engagement modeling.
 
 ---
 
-## 🛠️ Data Quality & Safety Audit Summary
+## Data Quality & Safety Audit Summary
 
 | Risk / Issue Area | Problem Identified in Raw Data | Resolution / SQL Technique |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ This repository demonstrates a SQL data governance pipeline that cleans raw prof
 
 ---
 
-## 📖 Data Dictionary (Anonymized Analytics View)
+##  Data Dictionary (Anonymized Analytics View)
 
 | Column Name | Data Type | Privacy Level | Description |
 | :--- | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ This repository demonstrates a SQL data governance pipeline that cleans raw prof
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** SQL (PostgreSQL / MySQL compatible)
 * **Privacy Standards:** Location Fuzzing & PII Masking (Privacy-by-Design)
 * **Documentation:** Data Dictionaries & Markdown

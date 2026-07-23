@@ -1,0 +1,7 @@
+user_id,full_name,age,gender,location_city,exact_latitude,exact_longitude,verified_status,prompt_response_length,account_status
+HNG-101,Maya Lin,28,Female,New York,40.7128,-74.0060,Verified,145,Active
+HNG-102,David Miller,17,Male,Brooklyn,40.6782,-73.9442,Unverified,0,Active
+HNG-103, Jordan Taylor ,31,Non-Binary,Queens,40.7282,-73.7949,Verified,220,Pending
+HNG-101,Maya Lin,28,Female,New York,40.7128,-74.0060,Verified,145,Active
+HNG-104,Chloe Bennett,105,Female,Manhattan,40.7831,-73.9712,Unverified,50,Active
+HNG-105,Alex Rivera,25,Male,Bronx,40.8448,-73.8648,Verified,,Inactive

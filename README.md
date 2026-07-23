@@ -19,7 +19,7 @@ This repository demonstrates a SQL data governance pipeline that cleans raw prof
 
 ---
 
-##  Data Dictionary (Anonymized Analytics View)
+## Data Dictionary (Anonymized Analytics View)
 
 | Column Name | Data Type | Privacy Level | Description |
 | :--- | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ This repository demonstrates a SQL data governance pipeline that cleans raw prof
 
 ---
 
-##  Tech Stack
+## Tech Stack
 * **Language:** SQL (PostgreSQL / MySQL compatible)
 * **Privacy Standards:** Location Fuzzing & PII Masking (Privacy-by-Design)
 * **Documentation:** Data Dictionaries & Markdown

@@ -1,4 +1,5 @@
-# 🖤 Hinge User Telemetry: Data Quality & Safety Audit
+![Banner] (hingelogo.png)
+# Hinge User Telemetry: Data Quality & Safety Audit
 
 ## 📌 Business Overview
 On consumer dating platforms like Hinge, user safety, privacy, and data integrity are core product requirements. Raw telemetry data capturing user locations, ages, and profile verification statuses must be audited to ensure compliance with global privacy regulations (**GDPR/CCPA**) and to prevent the exposure of sensitive user locations.
